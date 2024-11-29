@@ -8,8 +8,7 @@ public class Main {
     }
 
     public static void Welcome() {
-        System.out.println("\nEnter your name: ");
-        String s = sc.next();
+        String s = "Your_Name";
         PrintMessage(s);
     }
 
