@@ -8,7 +8,7 @@ public class Main {
     }
 
     public static void Welcome() {
-        System.out.println("\nEnter your name: ");
+        System.out.println("Enter your name: ");
         String s = sc.next();
         PrintMessage(s);
     }
